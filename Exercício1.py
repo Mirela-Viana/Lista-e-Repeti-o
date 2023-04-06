@@ -1,3 +1,3 @@
-ListaUM = ['1', '2' , '3', '4', '5']
+ListaUM = [1, 2 , 3, 4, 5]
 print(ListaUM)
 
