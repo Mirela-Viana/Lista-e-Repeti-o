@@ -1,8 +1,7 @@
 notas = [3,5,8,10]
 media = 0.0
-alunos= ['Ana', 'Carol', 'Monica', 'Paulo']
-print(notas[0])
+print('Notas', notas)
 for valorindex in notas:
     media= media + valorindex
 media= media / len(notas)
-print(media)
+print('Média', media)
